@@ -1,0 +1,23 @@
+#resultTitle {
+  margin: 5%;
+  font-size: 20px;
+  word-wrap: break-word;
+}
+
+#resultTable {
+  border-collapse: collapse;
+  background-color: white;
+  width: 90%;
+  margin: 10px auto;
+}
+
+#resultTable th, #resultTable td {
+  border: solid 1px #ccc;
+  width: 30%;
+  height: 30px;
+  padding: 5px;
+}
+
+#pull-hook {
+  color: #999;
+}
